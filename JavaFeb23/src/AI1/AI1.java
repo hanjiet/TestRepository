@@ -42,6 +42,7 @@ public class AI1 {
 			k++;
 		}while (k <16);
 		System.out.println("The sum of the numbers from 0 to 15 is " +sum3);
+		//testing
 	}
 
 }
