@@ -16,7 +16,7 @@ public class AI1 {
 //				".\nAt the age of "+age+", "+name+" went to college at " +college+ "."
 //				+ "\n" +name+ " graduated and went to work as a " +profession+ "."
 //				+ "\nThen, " +name+ " adopted a " +animal+ " named " +petName+ ".");
-		
+		// editediteditedit
 	
 		
 		System.out.println("\nFor Loop: ");
