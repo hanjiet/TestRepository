@@ -23,7 +23,7 @@ public class AssignmentOperator {
 		System.out.println(a%=7); // 3
 		
 		
-		//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
+		//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 
 	}
 
 }
